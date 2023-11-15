@@ -1,3 +1,2 @@
 # DSC180A-Methodology-4
-Anthony Dang
-andang@ucsd.edu
+Anthony Dang and Ricky Miura
